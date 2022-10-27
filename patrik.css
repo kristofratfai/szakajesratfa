@@ -3,29 +3,6 @@ body{
     background-size: cover;
 }
 
-
-li{
-    border: 2px solid purple;
-    border-radius: 0,5px;
-    display: inline-block;
-    padding: 2px;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin: 1px;
-    text-transform: uppercase;
-    font-family: fantasy;
-}
-
-ul{
-    position: absolute;
-    top: 8px;
-    left: 35%;
-}
-
-nav{
-    box-sizing: border-box;
-}
-
 span {
     position: absolute;
     left: 50%;
